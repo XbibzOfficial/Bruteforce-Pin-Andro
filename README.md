@@ -19,7 +19,7 @@ Use this script wisely!
 
 ---
 
-## ** Fitur**  
+## **Fitur**  
 
 | Fitur | Deskripsi |  
 |--------|------------|  
