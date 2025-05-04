@@ -19,7 +19,7 @@ Use this script wisely!
 
 ---
 
-## **📋 Tabel Fitur**  
+## ** Fitur**  
 
 | Fitur | Deskripsi |  
 |--------|------------|  
@@ -36,7 +36,7 @@ Use this script wisely!
 1. **Install Termux** (jika belum ada)  
 2. **Clone repo ini:**  
    ```bash
-   git clone https://github.com/username/DeviceBrute.git
+   git clone https://github.com/XbibzOfficial/Bruteforce-Pin-Andro.git
    cd DeviceBrute
    ```
 3. **Jalankan script:**  
@@ -59,7 +59,7 @@ Use this script wisely!
 ## **📥 Download & Install**  
 ```bash
 pkg install git python -y
-git clone https://github.com/username/DeviceBrute.git
+git clone [https://github.com/username/DeviceBrute.git](https://github.com/XbibzOfficial/Bruteforce-Pin-Andro.git)
 cd DeviceBrute
 python devicebrute.py
 ```
