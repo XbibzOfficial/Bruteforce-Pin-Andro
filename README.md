@@ -59,7 +59,7 @@ Use this script wisely!
 ## **📥 Download & Install**  
 ```bash
 pkg install git python -y
-git clone [https://github.com/username/DeviceBrute.git](https://github.com/XbibzOfficial/Bruteforce-Pin-Andro.git)
+git clone https://github.com/XbibzOfficial/Bruteforce-Pin-Andro.git
 cd DeviceBrute
 python devicebrute.py
 ```
@@ -78,7 +78,8 @@ python devicebrute.py
 
 ---
 
-**🔥 GitHub:** [anomali](https://github.com/XbibzOfficial)  
+**🔥 GitHub:** [Xbibz Official](https://github.com/XbibzOfficial)  
+My Website: [Klik](https://xbibzofficiall.glitch.me)
 **💡 Kontribusi:** Open for PR & Issues!  
 
 **⭐ Jangan lupa kasih bintang jika project ini membantu!**  
